@@ -79,7 +79,7 @@
     "axios-cache-interceptor": "^1.4.1",
     "axios-progress-bar": "portainer/progress-bar-4-axios",
     "babel-plugin-angularjs-annotate": "^0.10.0",
-    "bootstrap": "^3.4.0",
+    "bootstrap": "^4.0.0",
     "buffer": "^6.0.3",
     "c8": "^9.1.0",
     "chardet": "^1.4.0",
